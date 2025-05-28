@@ -35,7 +35,7 @@ https://warm-druid-e3e04e.netlify.app/
 ## Screenshots
 ![alt](./image.png)
 
-##🌐 Supported Currencies
+## 🌐 Supported Currencies
 | Currency           | Code | Country Flag |
 | ------------------ | ---- | ------------ |
 | US Dollar          | USD  | 🇺🇸         |
